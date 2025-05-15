@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/yoongwangseok/react-test.git/static/js/main.985b4333.js",
-    "index.html": "/yoongwangseok/react-test.git/index.html",
-    "main.985b4333.js.map": "/yoongwangseok/react-test.git/static/js/main.985b4333.js.map"
+    "main.js": "/react-test/static/js/main.985b4333.js",
+    "index.html": "/react-test/index.html",
+    "main.985b4333.js.map": "/react-test/static/js/main.985b4333.js.map"
   },
   "entrypoints": [
     "static/js/main.985b4333.js"
